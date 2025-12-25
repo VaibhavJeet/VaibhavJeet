@@ -43,21 +43,6 @@ Building scalable applications with modern technologies across web, mobile, and 
 
 ## Featured Projects
 
-### Kamao Daily - Task Marketplace Platform
-A comprehensive task management platform connecting task posters with local workers.
-
-**Tech Stack**: NestJS, MongoDB, Flutter, Socket.IO, Razorpay, Firebase
-
-**Key Features**:
-- Location-based task discovery with GPS filtering
-- Real-time WebSocket chat and notifications
-- Secure payment system with escrow integration
-- KYC verification with face matching using ML Kit & TensorFlow Lite
-- Multi-language support (6 languages)
-- Play Store deployment with CI/CD pipeline
-
----
-
 ### AI-Powered Car Service Agent
 Autonomous conversational AI system for automotive service management with multi-layer guardrails.
 
@@ -112,6 +97,23 @@ Travel booking platform with comprehensive B2B functionality.
 
 ---
 
+<!--
+### Kamao Daily - Task Marketplace Platform
+A comprehensive task management platform connecting task posters with local workers.
+
+**Tech Stack**: NestJS, MongoDB, Flutter, Socket.IO, Razorpay, Firebase
+
+**Key Features**:
+- Location-based task discovery with GPS filtering
+- Real-time WebSocket chat and notifications
+- Secure payment system with escrow integration
+- KYC verification with face matching using ML Kit & TensorFlow Lite
+- Multi-language support (6 languages)
+- Play Store deployment with CI/CD pipeline
+-->
+
+---
+
 ## Architecture Patterns
 
 - **Microservices** with gRPC and REST APIs
@@ -133,14 +135,6 @@ Travel booking platform with comprehensive B2B functionality.
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-VaibhavJeet-181717?style=flat&logo=github)](https://github.com/VaibhavJeet)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhav--srivastava.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhav-srivastava.vercel.app)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavJeet&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavJeet&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-VaibhavJeet-181717?style=for-the-badge&logo=github)](https://github.com/VaibhavJeet)
